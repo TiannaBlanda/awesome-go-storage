@@ -1,11 +1,11 @@
-# Awesome Go Storage [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+* Awesome Go Storage [*[Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Go storage projects and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/gostor/awesome-go-storage/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/gostor/awesome-go-storage/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/gostor/awesome-go-storage/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/gostor/awesome-go-storage/graphs/contributors); you rock 
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
@@ -194,3 +194,4 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * Multiple Backends
     * [Fiber Storage](https://github.com/gofiber/storage) - Premade storage drivers that implement the [Storage](https://github.com/gofiber/storage/blob/main/storage.go) interface. 
     * [gokv](https://github.com/philippgille/gokv) - A simple key-value store interface and many implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more) 
+ 
